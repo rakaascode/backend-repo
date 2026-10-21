@@ -7,6 +7,12 @@ REST API pengelolaan artikel menggunakan Go, Gin, GORM, dan MySQL.
 - Go 1.26.0 atau versi yang kompatibel dengan `go.mod`.
 - MySQL yang sudah berjalan dan akun yang dapat membuat database serta tabel.
 
+Dari root repository, masuk ke direktori layanan terlebih dahulu:
+
+```bash
+cd article-service
+```
+
 Semua perintah berikut dijalankan dari direktori `article-service` yang berisi `go.mod`.
 
 ## 1. Siapkan konfigurasi
