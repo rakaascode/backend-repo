@@ -103,7 +103,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"title\": \"Ini adalah judul artikel yang sangat panjang\",\n    \"content\": \"Ini adalah konten artikel. Konten ini harus memiliki minimal 200 karakter agar lolos validasi. Mari kita tambahkan beberapa kata lagi untuk memastikan panjangnya mencukupi. Ini adalah test backend untuk sharing vision 2023. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\",\n    \"category\": \"Teknologi\",\n    \"status\": \"Publish\"\n}",
+							"raw": "{\n    \"title\": \"Ini adalah judul artikel yang sangat panjang\",\n    \"content\": \"Ini adalah konten artikel. Konten ini harus memiliki minimal 200 karakter agar lolos validasi. Mari kita tambahkan beberapa kata lagi untuk memastikan panjangnya mencukupi. Ini adalah test backend untuk sharing vision 2026. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\",\n    \"category\": \"Teknologi\",\n    \"status\": \"Publish\"\n}",
 							"options": {
 								"raw": {
 									"language": "json"

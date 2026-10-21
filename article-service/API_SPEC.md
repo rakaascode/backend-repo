@@ -1,5 +1,8 @@
 # Article Service - API Specification
-**Project:** Sharing Vision Article API Submission  
+**Project:** Sharing Vision Article API Submission 2026
+
+**Base URL VPS:** `https://submission.metrolabs.site`
+
 **Base URL lokal:** `http://localhost:8081`  
 **Format:** JSON  
 **Service:** `article-service` — Go + Gin + MySQL

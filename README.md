@@ -1,6 +1,15 @@
-# Article Service Submission
+# Tes Backend Sharing Vision 2026
 
 REST API pengelolaan artikel menggunakan Go, Gin, GORM, dan MySQL.
+
+## API yang sudah dideploy
+
+Base URL: https://submission.metrolabs.site
+
+- Health API: https://submission.metrolabs.site/health
+- Health database: https://submission.metrolabs.site/health/db
+
+Pengembangan lokal tetap menggunakan http://localhost:8081.
 
 ## Prasyarat
 
