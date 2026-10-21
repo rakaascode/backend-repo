@@ -1,0 +1,38 @@
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+!.env.sample
+.aws/
+
+# Go build and test output
+bin/
+dist/
+*.exe
+*.exe~
+*.test
+*.out
+coverage/
+coverage*.txt
+coverage*.html
+/article-service/article-service
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+
+# Local databases and logs
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+*.log
+
+# OS and editor temporary files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
